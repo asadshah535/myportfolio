@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8fdb3a8.css",
+    "main.js": "/static/js/main.c04ae0e6.js",
+    "static/media/saheefa.png": "/static/media/saheefa.c5f514a8bb1b052d705a.png",
+    "static/media/rentacar.png": "/static/media/rentacar.add8c7d699959003db6c.png",
+    "static/media/xadautos.png": "/static/media/xadautos.98cf4143a866429ef5ed.png",
+    "static/media/lap.png": "/static/media/lap.93e52e385ac23ddde3e4.png",
+    "static/media/axis.png": "/static/media/axis.81a5d92901cd3f8e4219.png",
+    "static/media/tech.png": "/static/media/tech.3204082eb58160b8e3bd.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.956a465f822442046fdd.png",
+    "static/media/asad.jpg": "/static/media/asad.30a784ad0195ec0e6163.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.f8fdb3a8.css.map": "/static/css/main.f8fdb3a8.css.map",
+    "main.c04ae0e6.js.map": "/static/js/main.c04ae0e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8fdb3a8.css",
+    "static/js/main.c04ae0e6.js"
+  ]
+}
